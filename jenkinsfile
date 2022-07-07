@@ -53,7 +53,7 @@ pipeline {
 	            }
 			}
 				
-	        
+	        }
 	
 
 	    // Options
@@ -81,4 +81,4 @@ pipeline {
 	    }
 	
 	}
-}
+
